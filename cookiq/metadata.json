@@ -1,0 +1,9 @@
+
+{
+  "name": "CookIQ",
+  "description": "An intelligent cooking assistant that crafts recipes for any combination of ingredients, traditional or experimental.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
